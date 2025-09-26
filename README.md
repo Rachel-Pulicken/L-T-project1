@@ -1,6 +1,6 @@
 ## Resume Builder Pro
 
-**Resume Builder Pro** is a responsive web-based application that allows users to create professional resumes quickly and easily. With a clean design and dynamic features, it helps job seekers build resumes that are both visually appealing and well-structured.
+**Resume Builder Pro** is a responsive web-based application that allows users to create professional resumes quickly and easily. With a clean design and dynamic features, it helps job seekers build resumes that are both visually appealing and well-structured
 
 ---
 
